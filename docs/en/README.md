@@ -3,7 +3,6 @@
 <div style="text-align: center;">
     <img src="../images/coverimage.gif" />
 </div>
-<hr />
 
 ## Warning
 
@@ -1055,7 +1054,7 @@ Many years ago I discovered a simple principle:
 
 So I like to teach, and I have been teaching for twenty years. I've taught tests, writing, entrepreneurship, investment... Teaching is something that I can do until the day I die, and it's something that I love doing. I can always change what I'm teaching, because I always want to learn new things. It's that simple. In my experience, **finding something that is worth doing for your whole life is the best armor a person can have**. Now I teach thousands of students online, and in the future it will be even more. I wake up in the morning, teach for ten minutes, and I am happy. The bigger the projects you work on, the more trouble is involved, but for me there are no troubles that teaching for ten minutes won't fix.
 
-## Part Four: Objectity, Objectivity, Objectivity!
+## Part Four: Objectivity, Objectivity, Objectivity!
 
 The key to successful investing is to be completely objective -- about yourself, the world, and every aspect of everything. Any time we are not sufficiently objective, our **gamma** goes up.
 
@@ -1561,9 +1560,9 @@ Investing education is important. Even more basic than investing, making money i
 
 So from my perspective, everyone should seriously study investing. I can't think of any reason why not.
 
-### 4. How to Join the BOX Regular Investing Practice Group
+## 4. How to Join the BOX Regular Investing Practice Group
 
-#### 4.1 Download Mixin Messenger
+### 4.1 Download Mixin Messenger
 
 Mixin download links:
 
@@ -1580,11 +1579,11 @@ iOS users with Mainland China App Store accounts who download [Mixin 畅聊版](
 
 Also, the exit bot (ID: 7000101276) provides OTC service within Mixin.
 
-#### 4.2 Adding the “BOX Regular Investing Practice Group” Bot
+### 4.2 Adding the “BOX Regular Investing Practice Group” Bot
 
 Search for *7000102069* to add the “BOX Regular Investing Practice Group” bot. However, without the recommendation of a member of the group, you will be unable to pay and join the group, so you must ask around in other groups to find someone who is willing to recommend you. 
 
-#### 4.3 Blockchain Open Class
+### 4.3 Blockchain Open Class
 
 Search for and add the following bot: *7000102093*.
 
@@ -1592,7 +1591,7 @@ I often hold open classes in this group, and you can also find recordings of pre
 
 ## About the Author
 
-Li Xiaolai is an investor and a lifelong learner. http://lixiaolai.com · [xiaolai@github](https://github.com/xiaolai)
+Li Xiaolai is an investor and a lifelong learner. [http://lixiaolai.com]( http://lixiaolai.com) · [xiaolai@github](https://github.com/xiaolai)
 
 ### Publications
 
@@ -1615,7 +1614,9 @@ Li Xiaolai is an investor and a lifelong learner. http://lixiaolai.com · [xiaol
 
 -----
 
-[Download PDF of this book](https://onregularinvesting.com/pdf/on-regularinvesting-en.pdf)
+> * [Download PDF of this book](https://onregularinvesting.com/pdf/on-regularinvesting-en.pdf)
+> * [Download ePub of this book](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/epub/OnRegularInvesting_cn.epub)
+> * [Download mobi of this book](https://github.com/xiaolai/regular-investing-in-box/raw/master/docs/mobi/OnRegularInvesting_cn.mobi)
 
 This book is released under the [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.en).
 
